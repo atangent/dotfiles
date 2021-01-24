@@ -76,7 +76,6 @@ plugins=(
 	python
 	ruby
 	npm
-	npx
 	git
 	pip
 	
