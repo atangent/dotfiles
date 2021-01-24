@@ -1,0 +1,30 @@
+{
+  "entries": {
+    "cask": {
+      "rectangle": {
+        "version": "0.40",
+        "options": {
+          "full_name": "rectangle"
+        }
+      },
+      "monitorcontrol": {
+        "version": "2.1.0",
+        "options": {
+          "full_name": "monitorcontrol"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "2.6.2",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "0aae21fd18fffc563ef05ad35550a22969539c49",
+        "CLT": "12.0.32.27",
+        "Xcode": "12.3",
+        "macOS": "11.1"
+      }
+    }
+  }
+}
