@@ -29,7 +29,7 @@ brew "tree"
 # UNIX shell 
 brew "zsh"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-bew "starship"
+brew "starship"
 cask "use-engine"
 cask "monitorcontrol"
 cask "rectangle"
