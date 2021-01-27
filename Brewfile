@@ -2,3 +2,5 @@
 cask "rectangle"
 cask "monitorcontrol"
 
+# Terminal
+cask "use-engine"
