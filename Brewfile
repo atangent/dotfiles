@@ -35,4 +35,5 @@ cask "monitorcontrol"
 cask "rectangle"
 cask "visual-studio-code"
 # Fun but necessary
-brew "spotify"
+cask "spotify"
+cask "notion"
