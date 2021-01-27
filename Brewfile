@@ -34,3 +34,5 @@ cask "use-engine"
 cask "monitorcontrol"
 cask "rectangle"
 cask "visual-studio-code"
+# Fun but necessary
+brew "spotify"
