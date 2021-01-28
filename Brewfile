@@ -37,3 +37,4 @@ cask "visual-studio-code"
 # Fun but necessary
 cask "spotify"
 cask "notion"
+cask "flux"
