@@ -1,0 +1,19 @@
+{
+  "liveshare.anonymousGuestApproval": "reject",
+  "liveshare.guestApprovalRequired": true,
+  "liveshare.shareExternalFiles": false,
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Eva Dark",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 20,
+  "launch": {
+  
+
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.codeActionsOnSave": null,
+  "terminal.external.osxExec": "iTerm2.app"
+}
